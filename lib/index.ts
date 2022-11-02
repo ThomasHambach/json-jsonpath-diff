@@ -1,4 +1,4 @@
-import { isEqual } from "lodash";
+import { isEqual } from "./isEqual";
 import diffSequences from "diff-sequences";
 import { JsonDifferences } from "./JsonDifferences";
 
